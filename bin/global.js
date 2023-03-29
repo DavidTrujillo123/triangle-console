@@ -1,4 +1,5 @@
-let triangle = require ('../src/index.js');
+#!/usr/bin/env node
+let triangle = require('../src/index.js');
 
 const rndInt = Math.floor(Math.random() * 10) + 1;
 

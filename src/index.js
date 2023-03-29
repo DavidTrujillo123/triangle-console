@@ -15,4 +15,4 @@ function seeTriangles(n){
 
 module.exports = {
     seeTriangles
-}
+};

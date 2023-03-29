@@ -12,5 +12,8 @@
   "bin": {
     "triangle-console": "./bin/global.js"
   },
-  "preferGlobar": true
+  "preferGlobar": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
